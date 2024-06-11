@@ -1,0 +1,78 @@
+C:\Users\sebas\source\repos\ListadoDeTareas\ListadoDeTareas\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\sebas\source\repos\ListadoDeTareas\ListadoDeTareas\bin\Debug\net8.0\appsettings.json
+C:\Users\sebas\source\repos\ListadoDeTareas\ListadoDeTareas\bin\Debug\net8.0\ListadoDeTareas.exe
+C:\Users\sebas\source\repos\ListadoDeTareas\ListadoDeTareas\bin\Debug\net8.0\ListadoDeTareas.deps.json
+C:\Users\sebas\source\repos\ListadoDeTareas\ListadoDeTareas\bin\Debug\net8.0\ListadoDeTareas.runtimeconfig.json
+C:\Users\sebas\source\repos\ListadoDeTareas\ListadoDeTareas\bin\Debug\net8.0\ListadoDeTareas.dll
+C:\Users\sebas\source\repos\ListadoDeTareas\ListadoDeTareas\bin\Debug\net8.0\ListadoDeTareas.pdb
+C:\Users\sebas\source\repos\ListadoDeTareas\ListadoDeTareas\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\sebas\source\repos\ListadoDeTareas\ListadoDeTareas\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\sebas\source\repos\ListadoDeTareas\ListadoDeTareas\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\sebas\source\repos\ListadoDeTareas\ListadoDeTareas\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\sebas\source\repos\ListadoDeTareas\ListadoDeTareas\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\sebas\source\repos\ListadoDeTareas\ListadoDeTareas\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\sebas\source\repos\ListadoDeTareas\ListadoDeTareas\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\sebas\source\repos\ListadoDeTareas\ListadoDeTareas\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\sebas\source\repos\ListadoDeTareas\ListadoDeTareas\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\sebas\source\repos\ListadoDeTareas\ListadoDeTareas\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\sebas\source\repos\ListadoDeTareas\ListadoDeTareas\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\sebas\source\repos\ListadoDeTareas\ListadoDeTareas\obj\Debug\net8.0\ListadoDeTareas.csproj.AssemblyReference.cache
+C:\Users\sebas\source\repos\ListadoDeTareas\ListadoDeTareas\obj\Debug\net8.0\ListadoDeTareas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sebas\source\repos\ListadoDeTareas\ListadoDeTareas\obj\Debug\net8.0\ListadoDeTareas.AssemblyInfoInputs.cache
+C:\Users\sebas\source\repos\ListadoDeTareas\ListadoDeTareas\obj\Debug\net8.0\ListadoDeTareas.AssemblyInfo.cs
+C:\Users\sebas\source\repos\ListadoDeTareas\ListadoDeTareas\obj\Debug\net8.0\ListadoDeTareas.csproj.CoreCompileInputs.cache
+C:\Users\sebas\source\repos\ListadoDeTareas\ListadoDeTareas\obj\Debug\net8.0\ListadoDeTareas.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\sebas\source\repos\ListadoDeTareas\ListadoDeTareas\obj\Debug\net8.0\ListadoDeTareas.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sebas\source\repos\ListadoDeTareas\ListadoDeTareas\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\sebas\source\repos\ListadoDeTareas\ListadoDeTareas\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\sebas\source\repos\ListadoDeTareas\ListadoDeTareas\obj\Debug\net8.0\staticwebassets\msbuild.ListadoDeTareas.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\sebas\source\repos\ListadoDeTareas\ListadoDeTareas\obj\Debug\net8.0\staticwebassets\msbuild.build.ListadoDeTareas.props
+C:\Users\sebas\source\repos\ListadoDeTareas\ListadoDeTareas\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ListadoDeTareas.props
+C:\Users\sebas\source\repos\ListadoDeTareas\ListadoDeTareas\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ListadoDeTareas.props
+C:\Users\sebas\source\repos\ListadoDeTareas\ListadoDeTareas\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\sebas\source\repos\ListadoDeTareas\ListadoDeTareas\obj\Debug\net8.0\scopedcss\bundle\ListadoDeTareas.styles.css
+C:\Users\sebas\source\repos\ListadoDeTareas\ListadoDeTareas\obj\Debug\net8.0\ListadoD.2B0BF07A.Up2Date
+C:\Users\sebas\source\repos\ListadoDeTareas\ListadoDeTareas\obj\Debug\net8.0\ListadoDeTareas.dll
+C:\Users\sebas\source\repos\ListadoDeTareas\ListadoDeTareas\obj\Debug\net8.0\refint\ListadoDeTareas.dll
+C:\Users\sebas\source\repos\ListadoDeTareas\ListadoDeTareas\obj\Debug\net8.0\ListadoDeTareas.pdb
+C:\Users\sebas\source\repos\ListadoDeTareas\ListadoDeTareas\obj\Debug\net8.0\ListadoDeTareas.genruntimeconfig.cache
+C:\Users\sebas\source\repos\ListadoDeTareas\ListadoDeTareas\obj\Debug\net8.0\ref\ListadoDeTareas.dll
+C:\Users\sebas\OneDrive\Escritorio\Proyecto Tareas\ListadoDeTareas\ListadoDeTareas\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\sebas\OneDrive\Escritorio\Proyecto Tareas\ListadoDeTareas\ListadoDeTareas\bin\Debug\net8.0\appsettings.json
+C:\Users\sebas\OneDrive\Escritorio\Proyecto Tareas\ListadoDeTareas\ListadoDeTareas\bin\Debug\net8.0\ListadoDeTareas.exe
+C:\Users\sebas\OneDrive\Escritorio\Proyecto Tareas\ListadoDeTareas\ListadoDeTareas\bin\Debug\net8.0\ListadoDeTareas.deps.json
+C:\Users\sebas\OneDrive\Escritorio\Proyecto Tareas\ListadoDeTareas\ListadoDeTareas\bin\Debug\net8.0\ListadoDeTareas.runtimeconfig.json
+C:\Users\sebas\OneDrive\Escritorio\Proyecto Tareas\ListadoDeTareas\ListadoDeTareas\bin\Debug\net8.0\ListadoDeTareas.dll
+C:\Users\sebas\OneDrive\Escritorio\Proyecto Tareas\ListadoDeTareas\ListadoDeTareas\bin\Debug\net8.0\ListadoDeTareas.pdb
+C:\Users\sebas\OneDrive\Escritorio\Proyecto Tareas\ListadoDeTareas\ListadoDeTareas\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\sebas\OneDrive\Escritorio\Proyecto Tareas\ListadoDeTareas\ListadoDeTareas\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\sebas\OneDrive\Escritorio\Proyecto Tareas\ListadoDeTareas\ListadoDeTareas\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\sebas\OneDrive\Escritorio\Proyecto Tareas\ListadoDeTareas\ListadoDeTareas\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\sebas\OneDrive\Escritorio\Proyecto Tareas\ListadoDeTareas\ListadoDeTareas\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\sebas\OneDrive\Escritorio\Proyecto Tareas\ListadoDeTareas\ListadoDeTareas\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\sebas\OneDrive\Escritorio\Proyecto Tareas\ListadoDeTareas\ListadoDeTareas\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\sebas\OneDrive\Escritorio\Proyecto Tareas\ListadoDeTareas\ListadoDeTareas\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\sebas\OneDrive\Escritorio\Proyecto Tareas\ListadoDeTareas\ListadoDeTareas\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\sebas\OneDrive\Escritorio\Proyecto Tareas\ListadoDeTareas\ListadoDeTareas\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\sebas\OneDrive\Escritorio\Proyecto Tareas\ListadoDeTareas\ListadoDeTareas\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\sebas\OneDrive\Escritorio\Proyecto Tareas\ListadoDeTareas\ListadoDeTareas\obj\Debug\net8.0\ListadoDeTareas.csproj.AssemblyReference.cache
+C:\Users\sebas\OneDrive\Escritorio\Proyecto Tareas\ListadoDeTareas\ListadoDeTareas\obj\Debug\net8.0\ListadoDeTareas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sebas\OneDrive\Escritorio\Proyecto Tareas\ListadoDeTareas\ListadoDeTareas\obj\Debug\net8.0\ListadoDeTareas.AssemblyInfoInputs.cache
+C:\Users\sebas\OneDrive\Escritorio\Proyecto Tareas\ListadoDeTareas\ListadoDeTareas\obj\Debug\net8.0\ListadoDeTareas.AssemblyInfo.cs
+C:\Users\sebas\OneDrive\Escritorio\Proyecto Tareas\ListadoDeTareas\ListadoDeTareas\obj\Debug\net8.0\ListadoDeTareas.csproj.CoreCompileInputs.cache
+C:\Users\sebas\OneDrive\Escritorio\Proyecto Tareas\ListadoDeTareas\ListadoDeTareas\obj\Debug\net8.0\ListadoDeTareas.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\sebas\OneDrive\Escritorio\Proyecto Tareas\ListadoDeTareas\ListadoDeTareas\obj\Debug\net8.0\ListadoDeTareas.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sebas\OneDrive\Escritorio\Proyecto Tareas\ListadoDeTareas\ListadoDeTareas\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\sebas\OneDrive\Escritorio\Proyecto Tareas\ListadoDeTareas\ListadoDeTareas\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\sebas\OneDrive\Escritorio\Proyecto Tareas\ListadoDeTareas\ListadoDeTareas\obj\Debug\net8.0\staticwebassets\msbuild.ListadoDeTareas.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\sebas\OneDrive\Escritorio\Proyecto Tareas\ListadoDeTareas\ListadoDeTareas\obj\Debug\net8.0\staticwebassets\msbuild.build.ListadoDeTareas.props
+C:\Users\sebas\OneDrive\Escritorio\Proyecto Tareas\ListadoDeTareas\ListadoDeTareas\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ListadoDeTareas.props
+C:\Users\sebas\OneDrive\Escritorio\Proyecto Tareas\ListadoDeTareas\ListadoDeTareas\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ListadoDeTareas.props
+C:\Users\sebas\OneDrive\Escritorio\Proyecto Tareas\ListadoDeTareas\ListadoDeTareas\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\sebas\OneDrive\Escritorio\Proyecto Tareas\ListadoDeTareas\ListadoDeTareas\obj\Debug\net8.0\scopedcss\bundle\ListadoDeTareas.styles.css
+C:\Users\sebas\OneDrive\Escritorio\Proyecto Tareas\ListadoDeTareas\ListadoDeTareas\obj\Debug\net8.0\ListadoD.2B0BF07A.Up2Date
+C:\Users\sebas\OneDrive\Escritorio\Proyecto Tareas\ListadoDeTareas\ListadoDeTareas\obj\Debug\net8.0\ListadoDeTareas.dll
+C:\Users\sebas\OneDrive\Escritorio\Proyecto Tareas\ListadoDeTareas\ListadoDeTareas\obj\Debug\net8.0\refint\ListadoDeTareas.dll
+C:\Users\sebas\OneDrive\Escritorio\Proyecto Tareas\ListadoDeTareas\ListadoDeTareas\obj\Debug\net8.0\ListadoDeTareas.pdb
+C:\Users\sebas\OneDrive\Escritorio\Proyecto Tareas\ListadoDeTareas\ListadoDeTareas\obj\Debug\net8.0\ListadoDeTareas.genruntimeconfig.cache
+C:\Users\sebas\OneDrive\Escritorio\Proyecto Tareas\ListadoDeTareas\ListadoDeTareas\obj\Debug\net8.0\ref\ListadoDeTareas.dll

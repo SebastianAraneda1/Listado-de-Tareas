@@ -1,0 +1,36 @@
+.container {
+    margin-top: 2vb;
+    display: grid;
+    place-items: center; /* Centra tanto horizontal como verticalmente */
+}
+
+.titulo{
+    background-color: bisque;
+    border-radius: 5vb;
+}
+.botonAgregarDiv{
+
+    display: grid;
+    place-items: center;
+    margin-top: 2vb;
+
+    #botonAgregar{
+        width: 50px;
+        height: 50px;
+        border-radius: 50%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding: 0;
+        border: none;
+
+        .signo{
+            margin: 0;
+            line-height: 50px;
+            font-size: 6vb;
+            color: aliceblue;
+        }
+
+    }
+
+}

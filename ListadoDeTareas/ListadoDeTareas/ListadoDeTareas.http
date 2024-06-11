@@ -1,0 +1,6 @@
+@ListadoDeTareas_HostAddress = http://localhost:5007
+
+GET {{ListadoDeTareas_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
