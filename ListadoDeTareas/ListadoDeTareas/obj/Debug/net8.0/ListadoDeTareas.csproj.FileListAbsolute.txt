@@ -76,3 +76,4 @@ C:\Users\sebas\OneDrive\Escritorio\Proyecto Tareas\ListadoDeTareas\ListadoDeTare
 C:\Users\sebas\OneDrive\Escritorio\Proyecto Tareas\ListadoDeTareas\ListadoDeTareas\obj\Debug\net8.0\ListadoDeTareas.pdb
 C:\Users\sebas\OneDrive\Escritorio\Proyecto Tareas\ListadoDeTareas\ListadoDeTareas\obj\Debug\net8.0\ListadoDeTareas.genruntimeconfig.cache
 C:\Users\sebas\OneDrive\Escritorio\Proyecto Tareas\ListadoDeTareas\ListadoDeTareas\obj\Debug\net8.0\ref\ListadoDeTareas.dll
+C:\Users\sebas\OneDrive\Escritorio\Proyecto Tareas\ListadoDeTareas\ListadoDeTareas\obj\Debug\net8.0\ListadoDeTareas.sourcelink.json

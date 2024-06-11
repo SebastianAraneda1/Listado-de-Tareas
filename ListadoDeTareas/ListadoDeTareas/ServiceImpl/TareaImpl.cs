@@ -14,55 +14,35 @@ namespace ListadoDeTareas.ServiceImpl
         {
             _dal = dal;
         }
-        public Response getAllTasks()
+        public List<Tarea> getAllTasks()
         {
-            Response response = new Response();
+            List<Tarea> listaTarea = new List<Tarea>();
 
-            try
+            DataTable table = (DataTable)_dal.getDataList("SELECT * FROM Tarea");
+
+            if (table.Rows.Count == 0 || table is null)
             {
-                List<Tarea> listaTarea = new List<Tarea>();
+                throw new Exception("No se encontraron datos");
 
-                DataTable table = (DataTable)_dal.getDataList("SELECT * FROM Tarea");
-
-                if (table.Rows.Count == 0 || table is null)
-                {
-                    response.statusCode = 404;
-                    response.errorMessage = "No se encontraron datos";
-                    response.data = null;
-                    return response;
-
-                }
-                for (int i = 0; i < table.Rows.Count; i++)
-                {
-                    Tarea tarea = new Tarea();
-
-                    tarea.id_tarea = Convert.ToInt32(table.Rows[i]["id_tarea"]);
-                    tarea.fecha = (DateTime)table.Rows[i]["fecha"];
-                    tarea.nombre = table.Rows[i]["nombre"].ToString();
-                    tarea.id_prioridad = Convert.ToInt32(table.Rows[i]["id_prioridad"]);
-                    listaTarea.Add(tarea);
-                }
-
-                if (listaTarea.Count == 0)
-                {
-                    response.statusCode = 404;
-                    response.errorMessage = "No se encontraron datos";
-                    response.data = null;
-                    return response;
-                }
-
-                response.statusCode = 200;
-                response.errorMessage = "Exito";
-                response.data = listaTarea;
-                return response;
             }
-            catch (Exception ex)
+            for (int i = 0; i < table.Rows.Count; i++)
             {
-                response.statusCode = 500;
-                response.errorMessage = ex.Message;
-                response.data = null;
-                return response;
+                Tarea tarea = new Tarea();
+
+                tarea.id_tarea = Convert.ToInt32(table.Rows[i]["id_tarea"]);
+                tarea.fecha = (DateTime)table.Rows[i]["fecha"];
+                tarea.nombre = table.Rows[i]["nombre"].ToString();
+                tarea.id_prioridad = Convert.ToInt32(table.Rows[i]["id_prioridad"]);
+                listaTarea.Add(tarea);
             }
+
+            if (listaTarea.Count == 0)
+            {
+                throw new Exception("No se encontraron datos");
+            }
+
+            return listaTarea;
+          
         }
 
         public Response executeQuery(string query) {

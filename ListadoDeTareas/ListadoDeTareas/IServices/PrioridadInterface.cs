@@ -1,9 +1,10 @@
 ﻿using ListadoDeTareas.Models;
+using Microsoft.AspNetCore.Mvc;
 
 namespace ListadoDeTareas.IServices
 {
     public interface PrioridadInterface
     {
-        public Response getAllPriorities();
+        public List<Prioridad> getAllPriorities();
     }
 }

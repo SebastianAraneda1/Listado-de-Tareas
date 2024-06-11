@@ -1,6 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\ListadoDeTareas",
+    "\\ListadoDeTareas\\Models"
   ],
   "SelectedNode": "\\ListadoDeTareas.sln",
   "PreviewInSolutionExplorer": false
