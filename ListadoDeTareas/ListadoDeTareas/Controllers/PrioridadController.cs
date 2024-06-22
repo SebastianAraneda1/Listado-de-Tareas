@@ -17,15 +17,8 @@ namespace ListadoDeTareas.Controllers
 
         [HttpGet]
         [Route("/obtenerPrioridades")]
-        public ActionResult<List<Prioridad>> getAllPriorities() {
-            try
-            {
-                var prioridades = prioridadInterface.getAllPriorities();
-                return Ok(prioridades);
-            }
-            catch (Exception ex) { 
-                return BadRequest(ex.Message);
-            }
+        public Response getAllPriorities() {
+            return prioridadInterface.getAllPriorities();
         }
     }
 }

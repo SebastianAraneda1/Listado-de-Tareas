@@ -1,12 +1,15 @@
 using ListadoDeTareas.Dal;
 using ListadoDeTareas.IServices;
 using ListadoDeTareas.ServiceImpl;
+using ListadoDeTareas.Utils;
 
 
 var builder = WebApplication.CreateBuilder(args);
+builder.Services.AddHttpClient();
 builder.Services.AddScoped<PrioridadInterface, PrioridadImpl>();
 builder.Services.AddScoped<TareaInterface, TareaImpl>();
 builder.Services.AddScoped<DalImpl, DalImpl>();
+builder.Services.AddScoped<ValidacionFeriado>();
 
 // Add services to the container.
 

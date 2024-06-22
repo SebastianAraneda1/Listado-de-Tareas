@@ -4,8 +4,6 @@ using Newtonsoft.Json;
 using System.Data;
 using System.Data.SqlClient;
 using ListadoDeTareas.Dal;
-using Microsoft.AspNetCore.Mvc;
-using Microsoft.AspNetCore.Http.HttpResults;
 
 namespace ListadoDeTareas.ServiceImpl
 {
@@ -17,32 +15,52 @@ namespace ListadoDeTareas.ServiceImpl
         {
             _dal = dal;
         }
-        public List<Prioridad> getAllPriorities()
+        public Response getAllPriorities()
         {
-            
-            List<Prioridad> listaPrioridad = new List<Prioridad>();
-
-            DataTable table = (DataTable) _dal.getDataList("SELECT * FROM Prioridad");
-
-            if (table.Rows.Count == 0 || table is null)
+            Response response = new Response();
+            try
             {
-                throw new Exception("No se encontraron datos");
-            }
-            for (int i = 0; i < table.Rows.Count; i++)
-            {
-                Prioridad prioridad = new Prioridad();
 
-                prioridad.id_prioridad = Convert.ToInt32(table.Rows[i]["id_prioridad"]);
-                prioridad.descripcion = table.Rows[i]["descripcion"].ToString();
-                listaPrioridad.Add(prioridad);
-            }
+                List<Prioridad> listaPrioridad = new List<Prioridad>();
 
-            if (listaPrioridad.Count == 0)
-            {
-                throw new Exception("No se encontraron datos");
-            }
+                DataTable table = (DataTable) _dal.getDataList("SELECT * FROM Prioridad");
 
-            return listaPrioridad;
+                if (table.Rows.Count == 0 || table is null)
+                {
+                    response.statusCode = 404;
+                    response.message = "No se encontraron datos";
+                    response.data = null;
+                    return response;
+
+                }
+                for (int i = 0; i < table.Rows.Count; i++)
+                {
+                    Prioridad prioridad = new Prioridad();
+
+                    prioridad.id_prioridad = Convert.ToInt32(table.Rows[i]["id_prioridad"]);
+                    prioridad.descripcion = table.Rows[i]["descripcion"].ToString();
+                    listaPrioridad.Add(prioridad);
+                }
+
+                if (listaPrioridad.Count == 0)
+                {
+                    response.statusCode = 404;
+                    response.message = "No se encontraron datos";
+                    response.data = null;
+                    return response;
+                }
+
+                response.statusCode = 200;
+                response.message = "Exito";
+                response.data = listaPrioridad;
+                return response;
+            }
+            catch (Exception ex) {
+                response.statusCode = 500;
+                response.message = ex.Message;
+                response.data = null;
+                return response;
+            }
         }
     }
 }

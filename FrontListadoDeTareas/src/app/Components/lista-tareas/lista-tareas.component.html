@@ -1,25 +1,35 @@
+<div class="botonAgregarDiv">
+
+  <button type="button" id="botonAgregar" class="btn btn-warning" (click)="AgregarTarea()">
+    
+    <h1 class="signo">+</h1>
+
+  </button>
+
+</div>
 <div class="container tablaTareas">
-    <table class="table table-warning table-striped">
+  <table class="table table-warning table-striped">
 
-        <thead>
-            <tr>
-                <th scope="col">ID</th>
-                <th scope="col">Fecha</th>
-                <th scope="col">Nombre</th>
-                <th scope="col">Prioridad</th>
-            </tr>
-        </thead>
+    <thead>
+      <tr>
+        <th scope="col">ID</th>
+        <th scope="col">Fecha</th>
+        <th scope="col">Nombre</th>
+        <th scope="col">Prioridad</th>
+      </tr>
+    </thead>
 
-        <tbody>
-            <tr *ngFor="let tareas of tareaService.listaTarea">
-                <th scope="row">{{tareas.id_tarea}}</th>
-                <td>{{tareas.fecha}}</td>
-                <td>{{tareas.nombre}}</td>
-                <td>{{tareas.id_prioridad}}</td>
-                
-                <button class="btn btn-danger">Editar</button>
-                <button class="btn btn-danger">Eliminar</button>
-            </tr>
-        </tbody>
-    </table>
+    <tbody>
+      <tr *ngFor="let tareas of listaTareas">
+        <th scope="row">{{tareas.id_tarea}}</th>
+        <td>{{tareas.fecha | date: 'dd/MM/yyyy'}}</td>
+        <td>{{tareas.nombre}}</td>
+        <td>{{tareas.nombre_prioridad}}</td>
+        
+        <button class="btn btn-danger" (click)="editarTarea(tareas)">Editar</button>
+        <button class="btn btn-danger" (click)="eliminarTarea(tareas.id_tarea)">Eliminar</button>
+      </tr>
+    </tbody>
+
+  </table>
 </div> 

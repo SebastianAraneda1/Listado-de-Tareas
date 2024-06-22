@@ -62,6 +62,7 @@ C:\Users\sebas\OneDrive\Escritorio\Proyecto Tareas\ListadoDeTareas\ListadoDeTare
 C:\Users\sebas\OneDrive\Escritorio\Proyecto Tareas\ListadoDeTareas\ListadoDeTareas\obj\Debug\net8.0\ListadoDeTareas.csproj.CoreCompileInputs.cache
 C:\Users\sebas\OneDrive\Escritorio\Proyecto Tareas\ListadoDeTareas\ListadoDeTareas\obj\Debug\net8.0\ListadoDeTareas.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\sebas\OneDrive\Escritorio\Proyecto Tareas\ListadoDeTareas\ListadoDeTareas\obj\Debug\net8.0\ListadoDeTareas.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sebas\OneDrive\Escritorio\Proyecto Tareas\ListadoDeTareas\ListadoDeTareas\obj\Debug\net8.0\ListadoDeTareas.sourcelink.json
 C:\Users\sebas\OneDrive\Escritorio\Proyecto Tareas\ListadoDeTareas\ListadoDeTareas\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\sebas\OneDrive\Escritorio\Proyecto Tareas\ListadoDeTareas\ListadoDeTareas\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\sebas\OneDrive\Escritorio\Proyecto Tareas\ListadoDeTareas\ListadoDeTareas\obj\Debug\net8.0\staticwebassets\msbuild.ListadoDeTareas.Microsoft.AspNetCore.StaticWebAssets.props
@@ -76,4 +77,3 @@ C:\Users\sebas\OneDrive\Escritorio\Proyecto Tareas\ListadoDeTareas\ListadoDeTare
 C:\Users\sebas\OneDrive\Escritorio\Proyecto Tareas\ListadoDeTareas\ListadoDeTareas\obj\Debug\net8.0\ListadoDeTareas.pdb
 C:\Users\sebas\OneDrive\Escritorio\Proyecto Tareas\ListadoDeTareas\ListadoDeTareas\obj\Debug\net8.0\ListadoDeTareas.genruntimeconfig.cache
 C:\Users\sebas\OneDrive\Escritorio\Proyecto Tareas\ListadoDeTareas\ListadoDeTareas\obj\Debug\net8.0\ref\ListadoDeTareas.dll
-C:\Users\sebas\OneDrive\Escritorio\Proyecto Tareas\ListadoDeTareas\ListadoDeTareas\obj\Debug\net8.0\ListadoDeTareas.sourcelink.json

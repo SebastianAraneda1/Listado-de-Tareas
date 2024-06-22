@@ -16,17 +16,9 @@ namespace ListadoDeTareas.Controllers
         // GET: api/<TareasController>
         [HttpGet]
         [Route("/obtenerTareas")]
-        public ActionResult<List<Tarea>> getAllTasks()
+        public Response getAllTasks()
         {
-            try
-            {
-                var tareas = tareaInterface.getAllTasks();
-                return Ok(tareas);
-            }
-            catch (Exception ex) {
-                return BadRequest(ex.Message);
-            }
-
+            return tareaInterface.getAllTasks();
         }
 
         // POST api/<TareasController>

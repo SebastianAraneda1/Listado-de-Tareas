@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ListadoDeTareas")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c7184bf871e755a694e92c775fc21e6d4fe7034a")]
 [assembly: System.Reflection.AssemblyProductAttribute("ListadoDeTareas")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ListadoDeTareas")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

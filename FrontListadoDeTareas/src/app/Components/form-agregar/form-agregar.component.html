@@ -1,0 +1,30 @@
+<form>
+  <div class="container">
+
+    <div class="mb-3">
+      <label>Fecha:</label>
+      <input class="form" type="date" name="fecha" [(ngModel)]="fechaTarea">
+    </div>
+
+    <div class="mb-3">
+      <label>Nombre Tarea:</label>
+      <input class="form" type="text" name="nombre" maxlength="50" minlength="1" [(ngModel)]="nuevaTarea.nombre">
+    </div>
+
+    <div class="mb-3">
+      <label>Prioridad:</label>
+      <select name="Prioridad" class="form" [(ngModel)]="nuevaTarea.id_prioridad">
+        <option value="0" selected disabled >Seleccione</option>
+        <option *ngFor="let prioridad of listaPrioridades" value="{{prioridad.id_prioridad}}">{{prioridad.descripcion}}</option>
+      </select>
+    </div>
+
+    <div class="d-grid">
+      <button class="button btn-lg btn-success"></button>
+    </div>
+
+    <button type="button" class="btn btn-success" (click)="agregarTarea()">Guardar</button>
+    <button type="button" class="btn btn-danger" (click)="cerrarModal()">Cancelar</button>
+
+  </div>
+</form>
